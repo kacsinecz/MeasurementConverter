@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeasurementConverter</string>
+    <string name="text_field_value">Value</string>
+    <string name="input_must_be_a_number">Input must be a number</string>
+    <string name="km_miles"><![CDATA[km->miles]]></string>
+    <string name="km_yard"><![CDATA[km->yard]]></string>
+    <string name="km_foot"><![CDATA[km->foot]]></string>
+</resources>
